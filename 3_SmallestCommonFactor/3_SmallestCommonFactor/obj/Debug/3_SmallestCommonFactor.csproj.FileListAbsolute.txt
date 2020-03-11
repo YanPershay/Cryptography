@@ -1,0 +1,7 @@
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\bin\Debug\3_SmallestCommonFactor.exe.config
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\bin\Debug\3_SmallestCommonFactor.exe
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\bin\Debug\3_SmallestCommonFactor.pdb
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\obj\Debug\3_SmallestCommonFactor.csprojAssemblyReference.cache
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\obj\Debug\3_SmallestCommonFactor.csproj.CoreCompileInputs.cache
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\obj\Debug\3_SmallestCommonFactor.exe
+E:\!Криптографические методы защиты информации\Labs\3_SmallestCommonFactor\3_SmallestCommonFactor\obj\Debug\3_SmallestCommonFactor.pdb
