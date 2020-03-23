@@ -29,8 +29,35 @@ namespace _3_SmallestCommonFactor
             int n = int.Parse(Console.ReadLine());
 
             SimplesInInterval(m, n);
+
+            Console.WriteLine("Enter number for reverse:");
+            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter module");
+            int module = int.Parse(Console.ReadLine());
+
+            if (IsSimple(SmallestCommonFactor(number, module)))
+            {
+                Evklid(number, module);
+            }
+            else
+            {
+                Console.WriteLine("NOD != 1");
+            }
         }
 
+        private static void Evklid(int a, int m)
+        {
+            a = a % m;
+
+            for (int x = 1; x < m; x++)
+            {
+                if ((a * x) % m == 1)
+                {
+                   Console.WriteLine($"Reverse element for {a} by mod {m} is {x}"); 
+                }  
+            }    
+        }
+        
         static int SmallestCommonFactor(int x, int y)
         {
             while(x !=0 && y != 0)
