@@ -1,0 +1,13 @@
+D:\Cryptography\4_Ciphers\Trisemus\bin\Debug\netcoreapp3.1\Trisemus.exe
+D:\Cryptography\4_Ciphers\Trisemus\bin\Debug\netcoreapp3.1\Trisemus.deps.json
+D:\Cryptography\4_Ciphers\Trisemus\bin\Debug\netcoreapp3.1\Trisemus.runtimeconfig.json
+D:\Cryptography\4_Ciphers\Trisemus\bin\Debug\netcoreapp3.1\Trisemus.runtimeconfig.dev.json
+D:\Cryptography\4_Ciphers\Trisemus\bin\Debug\netcoreapp3.1\Trisemus.dll
+D:\Cryptography\4_Ciphers\Trisemus\bin\Debug\netcoreapp3.1\Trisemus.pdb
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.csprojAssemblyReference.cache
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.csproj.CoreCompileInputs.cache
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.AssemblyInfoInputs.cache
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.AssemblyInfo.cs
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.dll
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.pdb
+D:\Cryptography\4_Ciphers\Trisemus\obj\Debug\netcoreapp3.1\Trisemus.genruntimeconfig.cache

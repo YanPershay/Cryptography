@@ -1,0 +1,13 @@
+D:\Cryptography\4_Ciphers\4_Ciphers\bin\Debug\netcoreapp3.1\4_Ciphers.exe
+D:\Cryptography\4_Ciphers\4_Ciphers\bin\Debug\netcoreapp3.1\4_Ciphers.deps.json
+D:\Cryptography\4_Ciphers\4_Ciphers\bin\Debug\netcoreapp3.1\4_Ciphers.runtimeconfig.json
+D:\Cryptography\4_Ciphers\4_Ciphers\bin\Debug\netcoreapp3.1\4_Ciphers.runtimeconfig.dev.json
+D:\Cryptography\4_Ciphers\4_Ciphers\bin\Debug\netcoreapp3.1\4_Ciphers.dll
+D:\Cryptography\4_Ciphers\4_Ciphers\bin\Debug\netcoreapp3.1\4_Ciphers.pdb
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.csprojAssemblyReference.cache
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.csproj.CoreCompileInputs.cache
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.AssemblyInfoInputs.cache
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.AssemblyInfo.cs
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.dll
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.pdb
+D:\Cryptography\4_Ciphers\4_Ciphers\obj\Debug\netcoreapp3.1\4_Ciphers.genruntimeconfig.cache
