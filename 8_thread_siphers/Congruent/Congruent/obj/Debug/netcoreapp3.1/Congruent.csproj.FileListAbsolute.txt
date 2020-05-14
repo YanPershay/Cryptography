@@ -1,0 +1,13 @@
+E:\Congruent\Congruent\bin\Debug\netcoreapp3.1\Congruent.exe
+E:\Congruent\Congruent\bin\Debug\netcoreapp3.1\Congruent.deps.json
+E:\Congruent\Congruent\bin\Debug\netcoreapp3.1\Congruent.runtimeconfig.json
+E:\Congruent\Congruent\bin\Debug\netcoreapp3.1\Congruent.runtimeconfig.dev.json
+E:\Congruent\Congruent\bin\Debug\netcoreapp3.1\Congruent.dll
+E:\Congruent\Congruent\bin\Debug\netcoreapp3.1\Congruent.pdb
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.csprojAssemblyReference.cache
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.csproj.CoreCompileInputs.cache
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.AssemblyInfoInputs.cache
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.AssemblyInfo.cs
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.dll
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.pdb
+E:\Congruent\Congruent\obj\Debug\netcoreapp3.1\Congruent.genruntimeconfig.cache
